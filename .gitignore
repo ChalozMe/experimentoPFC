@@ -1,14 +1,6 @@
-# Datos (no subir a git)
-data/
-
-# Modelos entrenados (archivos grandes)
-models/
-
-# Arrays intermedios
-arrays/
-
-# Resultados (figuras, audios, métricas)
-results/
+# Solo excluir datos pesados crudos
+data/raw/
+data/specs/
 
 # Python
 __pycache__/

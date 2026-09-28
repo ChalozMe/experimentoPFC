@@ -1,0 +1,62 @@
+{
+  "feature_idx": 94,
+  "top_features": [
+    [
+      94,
+      0.378785255469715
+    ],
+    [
+      399,
+      0.3138868824154476
+    ],
+    [
+      7,
+      0.3072622684642148
+    ],
+    [
+      122,
+      0.2881264820286955
+    ],
+    [
+      353,
+      0.28388154495331785
+    ]
+  ],
+  "resultados": [
+    {
+      "idx": 0,
+      "nivel_original": 0.0,
+      "feature_idx": 94,
+      "activacion_original": 0.0,
+      "activacion_modificada": 2.0
+    },
+    {
+      "idx": 1,
+      "nivel_original": 0.0,
+      "feature_idx": 94,
+      "activacion_original": 0.0,
+      "activacion_modificada": 2.0
+    },
+    {
+      "idx": 2,
+      "nivel_original": 0.0,
+      "feature_idx": 94,
+      "activacion_original": 0.0,
+      "activacion_modificada": 2.0
+    },
+    {
+      "idx": 3,
+      "nivel_original": 0.0,
+      "feature_idx": 94,
+      "activacion_original": 0.0,
+      "activacion_modificada": 2.0
+    },
+    {
+      "idx": 4,
+      "nivel_original": 0.0,
+      "feature_idx": 94,
+      "activacion_original": 0.0,
+      "activacion_modificada": 2.0
+    }
+  ]
+}
