@@ -1,17 +1,13 @@
-# Datos pesados (no subir a git)
-data/raw/
-data/specs/
-data/labels.npy
-data/metadata.json
+# Datos (no subir a git)
+data/
 
 # Modelos entrenados (archivos grandes)
-models/*.pt
-models/*.json
+models/
 
 # Arrays intermedios
 arrays/
 
-# Resultados (figuras y audios)
+# Resultados (figuras, audios, métricas)
 results/
 
 # Python
