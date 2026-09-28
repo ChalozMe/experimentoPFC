@@ -1,0 +1,36 @@
+# Datos pesados (no subir a git)
+data/raw/
+data/specs/
+data/labels.npy
+data/metadata.json
+
+# Modelos entrenados (archivos grandes)
+models/*.pt
+models/*.json
+
+# Arrays intermedios
+arrays/
+
+# Resultados (figuras y audios)
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Entorno
+.env
+.venv
+venv/
+*.swp
+*.swo
+*~
+.DS_Store
