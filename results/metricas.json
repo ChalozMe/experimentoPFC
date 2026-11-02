@@ -30,8 +30,8 @@
   "cristales": {
     "norma_delta_real": 1.557158350944519,
     "norma_delta_random_mean": 0.9999999403953552,
-    "norma_delta_random_std": 7.226679343830256e-08,
-    "z_score": 6772579.5
+    "norma_delta_random_std": 6.556511067401516e-08,
+    "z_score": 7373223.0
   },
   "lobulos": {
     "mejor_n_clusters": 15,

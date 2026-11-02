@@ -198750,5 +198750,19 @@
     "nivel": 70,
     "spec_index": 24843,
     "spec_path": "specs/024843.npy"
-  }
-]
+  },
+  {
+    "path": "audio/DistortionFX/Crush/70/1-0_4.wav",
+    "categoria": "DistortionFX",
+    "subcategoria": "Crush",
+    "nivel": 70,
+    "spec_index": 24844,
+    "spec_path": "specs/024844.npy"
+  },
+  {
+    "path": "audio/DistortionFX/Crush/70/1-1.wav",
+    "categoria": "DistortionFX",
+    "subcategoria": "Crush",
+    "nivel": 70,
+    "spec_index": 24845,
+    "spec_path": 
